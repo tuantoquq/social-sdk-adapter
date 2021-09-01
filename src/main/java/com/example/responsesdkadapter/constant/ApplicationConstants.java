@@ -1,0 +1,7 @@
+package com.example.responsesdkadapter.constant;
+
+public class ApplicationConstants {
+    public static final String FACEBOOK_ACCESS_TOKEN = "EAAJ7DsRmoOYBAAfC2k7jIfSCFJODiCwkSxJHrGyVnY0teIeSX2uXMbkEdL1drEWwZBm6FGF1w856iGA8VOkZBpn3xM2g30vzJXM0NBSYi66tNShWub3RDdNAalwjle0Xkwjob9YeEZBNZAZCZBFoP9tMiGAwFOzNbNDJbtWM5G6eVJV0ZBQH849SaxQjmqt6ssZD";
+    public static final String ZALO_ACCESS_TOKEN = "bLgDCvcWfJcKN8uncwUdDPPVYZwUkTOpon2lEAAqvLtBHRq6gCBjSyrejmMWyTjSzsZo2hZmfLZfMzmzXEIdHkeR_qFYvT4GlnsEMF3bwJ65ISHq_DRfUAehdIV8c_4eoZwXRhsQyY3ZEjTowB2b7hatwLhFd9ehh6JWGyRQc2ZHVTH6Y86xJzKFvnYwXf98nJVd3BU8mrRZ9EiBz8Uv6gmvr7xxleywg27_IDYGgmIf7D9BnU216xjZgshKuVulkckxMxJtb2BeI-r8X-h9GuGGvGaqRZh87JoSlA8z";
+    public static final String ZALO_URL_API = "https://openapi.zalo.me/v2.0/oa/message";
+}
